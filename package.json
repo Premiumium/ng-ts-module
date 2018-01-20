@@ -1,0 +1,19 @@
+{
+  "name": "ng-ts-module",
+  "version": "0.0.1",
+  "description": "Utilities for AngularJS + TypeScript apps that want to operate more like Angular's (>= v2) modular system.",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premiumium/ng-ts-module.git"
+  },
+  "author": "info@premiumium.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/premiumium/ng-ts-module/issues"
+  },
+  "homepage": "https://github.com/premiumium/ng-ts-module#readme"
+}
